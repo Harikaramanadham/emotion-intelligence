@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+distilbert_results/
+final_distilbert_results/
+emotion_distilbert_epoch1/
+emotion_distilbert_epoch2/
+tmp_trainer/
+
+final_emotion_model/
