@@ -8,6 +8,13 @@ I built this project to explore a simple question:
 
 The project compares TF-IDF based Logistic Regression and Linear SVM models with a fine-tuned DistilBERT model. I also built a Streamlit application where users can enter their own text and see the emotions predicted by the DistilBERT model.
 
+## Live Demo
+
+Try the deployed application: https://emotion-intelligence.streamlit.app
+
+The trained DistilBERT model is hosted on Hugging Face:
+https://huggingface.co/HarikaRamanadham04/emotion-intelligence-distilbert
+
 ## Dataset
 
 I used the simplified version of the **GoEmotions** dataset from Google Research.
