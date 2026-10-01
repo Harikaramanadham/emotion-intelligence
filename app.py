@@ -53,7 +53,7 @@ st.set_page_config(
 st.title("Emotion Intelligence")
 
 st.write(
-    "Enter a sentence to the analyze the emotions expresses in the text"
+    "Enter a sentence to analyze the emotions expresses in the text"
 )
 user_text=st.text_area(
     "Enter Text:", placeholder="Example: I am really happy today!"
